@@ -1,0 +1,14 @@
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi\bin\Debug\LA12_EstimatingPi.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi\bin\Debug\LA12_EstimatingPi.exe
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi\bin\Debug\LA12_EstimatingPi.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi\obj\Debug\LA12_EstimatingPi.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi\obj\Debug\LA12_EstimatingPi.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi\obj\Debug\LA12_EstimatingPi.exe
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi\obj\Debug\LA12_EstimatingPi.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi - Copy - Copy\bin\Debug\LA12_EstimatingPi.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi - Copy - Copy\bin\Debug\LA12_EstimatingPi.exe
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi - Copy - Copy\bin\Debug\LA12_EstimatingPi.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi - Copy - Copy\obj\Debug\LA12_EstimatingPi.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi - Copy - Copy\obj\Debug\LA12_EstimatingPi.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi - Copy - Copy\obj\Debug\LA12_EstimatingPi.exe
+D:\All files\Bow Valley\SODV9104\HW\LA12_EstimatingPi - Copy - Copy\obj\Debug\LA12_EstimatingPi.pdb
